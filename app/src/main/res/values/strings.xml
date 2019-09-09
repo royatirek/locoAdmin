@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">locoAdmin</string>
+    <string name="help">Help</string>
+    <string name="laddo">Loco Laddo</string>
+    <string name="start">start helper</string>
+    <string name="stop">stop helper</string>
+</resources>
